@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoozmaGooz
-- 👀 I’m interested in gaining enough knowledge about coding thatI can become a professional coder. I want to make a living doing this kind of work.
+- 👀 I’m interested in gaining enough knowledge about coding so that I can become a professional coder. I want to make a living doing this kind of work.
 - 🌱 I’m currently learning HTML and CSS. I took a Python class and it was great, now I'm hoping to learn a lot more including JavaScript.
 - 💞️ I’m looking to collaborate on anything that helps me gain a better understanding of computer science.
 - 📫 How to reach me email magoozsooz@gmail.com
